@@ -128,13 +128,6 @@ A student is likely at risk if:
 
 ---
 
-## 👩‍💻 Authors
-
-* **Vidhya**
-* **Anoushka**
-
----
-
 ## 🎉 Conclusion
 
 This project demonstrates how data mining techniques can be used to extract meaningful insights from student data and support data-driven academic decision-making.
